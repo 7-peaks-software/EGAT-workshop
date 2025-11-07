@@ -56,47 +56,47 @@ When modifying your agent's knowledge sources, you'll need to consider if you wa
 
 For the purpose of testing knowledge we provide, we'll turn off the agent's general knowledge in order to experience the agent's responses when only given knowledge you explicitly provided.
 
-1. Start by navigating to the agent's Settings menu.
+1. Start by navigating to the agent's **Settings** menu.
    
    ![Settings](image.png)
 
-2. Scroll down to the Knowledge section. Next to where it says Allow the AI to use its own general knowledge, select the status flag to turn this feature Off.
+2. Scroll down to the **Knowledge** section. Next to where it says Allow the AI to use its own general knowledge, select the status flag to turn this feature **Off**.
    
    ![General off](image-1.png)
 
-   Select Continue after selecting the status flag to finalize turning off general knowledge. The general knowledge field should now have a Disabled flag to the right.
+   Select **Continue** after selecting the status flag to finalize turning off general knowledge. The general knowledge field should now have a **Disabled** flag to the right.
 
-3. Go to the Knowledge tab.
+3. Go to the **Knowledge** tab.
    
    ![Knowledge tab](image-2.png)
 
    If you completed the previous modules in this learning path, you may see existing knowledge sources, such as the following public websites:
 
-   - https://learn.microsoft.com/en-us/microsoft-copilot-studio/
-   - https://www.microsoft.com/en-us/microsoft-copilot/
+   - `https://learn.microsoft.com/en-us/microsoft-copilot-studio/`
+   - `https://www.microsoft.com/en-us/microsoft-copilot/`
 
-4. Select + Add knowledge, and on the Add knowledge page, choose Public websites.
+4. Select + **Add knowledge**, and on the **Add knowledge** page, choose **Public websites**.
 
    ![Add public websites](image-3.png)
    
 
-5. From the Add public websites window, enter `https://adoption.microsoft.com/en-us/` into the Public website link field, select Add from the right-hand side, then select Add from the bottom of the window.
+5. From the **Add public websites** window, enter `https://adoption.microsoft.com/en-us/` into the **Public website link** field, select **Add** from the right-hand side, then select **Add** from the bottom of the window.
    
    ![Add public websites](image-4.png)
 
-6. The website should now be added to the list of knowledge sources as a Public website and is available to your agent.
+6. The website should now be added to the list of knowledge sources as a **Public** website and is available to your agent.
    
    ![Add public site form](image-5.png)
 
-   When Generative Orchestration is enabled, the large language model looks at each knowledge source model description to know what data source to use to answer a user query.
+   When **Generative Orchestration** is enabled, the large language model looks at each knowledge source model description to know what data source to use to answer a user query.
 
 7. Now open the Test pane.
-8. Ask What is Microsoft Copilot Studio to trigger the knowledge sources we added.
+8. Ask `What is Microsoft Copilot Studio` to trigger the knowledge sources we added.
 9. Notice that it generates an answer and includes citations to ground its answer on and offers the user the option to navigate to the sources that were used to generate this answer.
 
    ![Test website](image-6.png)
 
-10. Now ask What knowledge sources does it support? as a follow-up question.
+10. Now ask `What knowledge sources does it support?` as a follow-up question.
 
    ![Follow up](image-7.png)
 
