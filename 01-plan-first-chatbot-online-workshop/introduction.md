@@ -1,3 +1,5 @@
+# Introduction to Microsoft Copilot Studio in a Day labs
+
 These beginner-level labs give you hands-on experience in designing and developing an agent with Microsoft Copilot Studio by using its new unified authoring canvas. For more information about this latest announcement, see the Microsoft Copilot Studio blog.
 
 This lab experience shows you the steps to build your agent in less than a day.
