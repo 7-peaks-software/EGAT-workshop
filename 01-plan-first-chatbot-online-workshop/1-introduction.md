@@ -42,4 +42,4 @@ Responsible AI FAQs are part of a broader effort to put [Microsoft AI principles
 To learn about the AI capabilities and impact of specific features of this solution, see [FAQ for Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/responsible-ai-overview).
 
 ## Next unit: Scenarios and prerequisites
-[Continue to Scenarios and prerequisites →](2-plan.md)
+[Continue to Scenarios and prerequisites →](2-scenarios-prequisites.md)

@@ -1,7 +1,9 @@
-Scenario: Contoso Coffee customer support
- Note
+# Introduction
 
-This scenario has been kept simple for this learning path to help you understand the basics of Microsoft Power Automate and how it works with Microsoft Copilot Studio. These exercises have a simple requirement for you to send users a order cancellation confirmation email. This scenario will help showcase how you can use Power Automate to perform actions with an agent.
+## Scenario: Contoso Coffee customer support
+
+    Note:
+    This scenario has been kept simple for this learning path to help you understand the basics of Microsoft Power Automate and how it works with Microsoft Copilot Studio. These exercises have a simple requirement for you to send users a order cancellation confirmation email. This scenario will help showcase how you can use Power Automate to perform actions with an agent.
 
 Contoso Coffee is passionate about providing efficient, environmentally sustainable, and innovative coffee products, barista experiences, and services.
 
@@ -11,9 +13,11 @@ Contoso Coffee wants to provide customers with the ability to ask questions abou
 
 Customer support costs continue to rise as the customer base grows, and the company can no longer continue to expand its customer support team. As a result, you're tasked with helping them find a solution by using Microsoft Copilot Studio.
 
-Prerequisites
+## Prerequisites
 Some modules in this learning path, especially later ones, reference previous labs in regard to capabilities and previous tasks. The exercises are designed so that, as long as you have access to a Microsoft Copilot Studio trial where you use the latest unified authoring canvas, you can get started from any exercise without needing to complete the previous module to move forward. However, for the best experience in learning about the product’s features and functionality, we recommend that you complete specific modules before starting others.
 
 For the Build Power Automate flows for your agent - Online workshop, we recommend that you complete the previous modules to get the best experience.
 
-Next unit: Fundamental knowledge - Power Automate
+#
+### Next unit: Fundamental knowledge - Power Automate
+[Continue to Fundamental knowledge - Power Automate →](2-power-automate.md)

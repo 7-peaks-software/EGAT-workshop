@@ -1,7 +1,5 @@
 # Check your knowledge
 
-- 5 minutes
-
 ## Answer the following questions to see what you learned.
 
 1. Which of the following agent knowledge sources deals with EXTERNAL data?
