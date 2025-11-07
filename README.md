@@ -57,17 +57,9 @@ This repository contains comprehensive workshop materials for learning how to cr
 
 
 ## Hands on Labs
-- Lab 1 - Create a FAQ chat bot using Microsoft Copilot Studio
-- Lab 2 - Create and edit Topics within Customer Service Bot
-- Lab 3 - Configure Customer Service Bot to support multiple languages
-- Lab 4 - Deploying custom copilots from Microsoft Teams
-- Lab 5 – Creating and using entities and slot filling
-- Lab 6 – Add generative answers capabilities to Customer Service Bot
-using public website (Microsoft Store)
-- Lab 7 - Add generative answers capabilities to Customer Service Bot
-using Bing custom Search (MGM Grand pool services)
-- Lab 8 – Add generative answers capabilities to Customer Service Bot
-using Uploaded documents (document provided in Lab resources)
+- Lab 1 - 
+- Lab 2 - 
+- Lab 3 - 
 
 ## Additional Resources
 - [Microsoft Copilot Studio Documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
