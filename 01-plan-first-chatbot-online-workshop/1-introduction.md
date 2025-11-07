@@ -40,3 +40,6 @@ Supplemental content in the form of Product Guidance and an Implementation Guide
 Responsible AI FAQs are part of a broader effort to put [Microsoft AI principles](https://www.microsoft.com/ai/responsible-ai?rtc=1) into practice. They aim to provide insights into the workings of AI technology, the decisions that can affect its performance and behavior, and the significance of considering the entire system, including the technology, people, and environment. We recommend that you use these FAQs to gain a deeper understanding of specific AI systems and features developed by Microsoft.
 
 To learn about the AI capabilities and impact of specific features of this solution, see [FAQ for Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/responsible-ai-overview).
+
+## Next unit: Scenarios and prerequisites
+[Continue to Scenarios and prerequisites →](2-plan.md)

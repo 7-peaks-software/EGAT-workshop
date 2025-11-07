@@ -22,3 +22,6 @@
    - Topics
    - Custom Instructions
 
+## Next unit: Summary
+[Continue to Summary →](6-summary.md)
+

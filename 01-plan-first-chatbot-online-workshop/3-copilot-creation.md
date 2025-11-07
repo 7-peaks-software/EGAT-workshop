@@ -10,25 +10,25 @@ You'll likely be excited to get started with building an agent using Microsoft C
 
 2. Select Next.
 
-   ![Continue](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/continue.png)
+   ![Continue](image.png)
 
 3. Select Get started.
 
-   ![Get started](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/get-started.png)
+   ![Get started](image-1.png)
 
 4. Select Get started under Confirmation details.
 
-   ![Confirmation](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/confirmation.png)
+   ![Confirmation](image-2.png)
 
 5. Select your country/region and then select Start free trial.
 
-   ![Start free](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/start-free.png)
+   ![Start free](image-3.png)
 
    Important: Skip to here if your account was already set up.
 
 6. You should be redirected to `copilotstudio.microsoft.com`. If not, go to the maker environment URL for Microsoft Copilot Studio: `copilotstudio.microsoft.com`. An Environment selector is in the upper-right corner.
 
-   ![Environment selector](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/environment.svg)
+   ![Environment selector](image-4.png)
 
 7. If you're working with an instructor, confirm which environment to use.
 
@@ -42,8 +42,7 @@ You'll likely be excited to get started with building an agent using Microsoft C
    I want an agent named Contoso Customer Service. It's an assistant for Contoso customers, helping to answer questions and help with common tasks like checking an order status.
    ```
 
-   ![New agent](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/new-create.png)
-
+  ![New agent](image-5.png)
 2. You'll be redirected to an optional conversational experience to further customize your agent. Provide more details and choose a tone of voice.
 
 3. Start by adding a tone of voice. Prompt:
@@ -52,7 +51,7 @@ You'll likely be excited to get started with building an agent using Microsoft C
    Give the agent a playful, joyful, customer focused, but definitely professional tone.
    ```
 
-   ![Tone](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/tone.png)
+   ![Tone](image-6.png)
 
 4. Next, you'll be asked to provide sources for important information. We'll be using publicly accessible websites. Type and enter the following:
 
@@ -68,15 +67,15 @@ You'll likely be excited to get started with building an agent using Microsoft C
 
 6. In the right side of the window, you'll see a summary pane that displays all the parameters and information you provided to the agent.
 
-   ![Copilot pane](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/copilot-pane.svg)
+   ![Copilot pane](image-7.png)
 
 7. Next, above the summary pane, select the ellipses (...) and select Edit advanced settings.
 
-   ![Advanced settings](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/advanced-settings.svg)
+   ![Advanced settings](image-8.png)
 
 8. In the Advanced Settings window, change the Schema Name from the default agent, to `ContosoCustomerService`.
 
-   ![Advanced settings window](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/advanced-settings-window.svg)
+   ![Advanced settings window](image-9.png)
 
 9. Finally, select Create in the top-right corner to finalize your adjustments.
 
@@ -86,13 +85,13 @@ You'll likely be excited to get started with building an agent using Microsoft C
 
 10. After a few minutes, you'll be redirected to your agent's Overview page.
 
-    ![Agent overview](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/copilot-example.svg)
+    ![Agent overview](image-10.png)
 
 Tip: If you've created an agent in this environment before, to create another, select Agents in the navigation bar and then New Agent.
 
 11. Within the Agents menu, you can select from the agents that are available to you. Selecting the ellipses next to an agent brings up a drop-down with controls like open the agent, export the agent, and delete. You can also select the name of the agent, which opens it.
 
-    ![Agents menu](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/menu.png)
+    ![Agents menu](image-11.png)
 
 ## Section 3: Take a quick tour of the user interface
 
@@ -100,7 +99,7 @@ Microsoft Copilot Studio makes it easier for you to build basic to advanced agen
 
 Because the Agents area was explained in the preceding section, the ensuing section will cover the main options that are available after you select an agent.
 
-![Service navigation](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/navigation.svg#lightbox)
+   ![Service navigation](image-12.png)
 
 - Overview - Displays your home page, including a summary of the agent's Details, Knowledge, Topics, Actions, and Publish status.
 
@@ -134,7 +133,7 @@ When you first explore the Analytics section, you'll be taken to a summary page.
   - Abandoned - A session ends and is considered abandoned when an engaged session times out after 36 minutes and didn't reach a resolved or escalated state.
   - Unengaged - A session starts when a user interacts with your agent or the agent sends a proactive message to the user. The session begins in an unengaged state.
 
-  ![Analytics](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/analytics.png)
+  ![Analytics](image-13.png)
 
 Note: The following screenshots display the analytics data from a sample agent. When you first create an agent, there's no session history to pull data from. To review analytics for your agent, you'll need to first publish the agent to a channel, and have end-users interact with it.
 
@@ -146,7 +145,7 @@ Note: The following screenshots display the analytics data from a sample agent. 
       - Good - A good answer quality indicates the answer is complete, relevant, and based on the agent's knowledge sources.
       - Poor - A poor answer quality indicates the answer was incomplete, irrelevant, or an available knowledge source wasn't used to answer the user's query.
 
-   ![Screenshot of the usage section of the analytics page](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/usage.png)
+   ![Screenshot of the usage section of the analytics page](image-14.png)
 
 - Satisfaction - Customer satisfaction with the agent. This section includes two tracked subsections:
 
@@ -158,7 +157,7 @@ Note: The following screenshots display the analytics data from a sample agent. 
 
 - The settings panel, which you can navigate to by selecting the Settings button in the top-right of Copilot Studio, contains all the settings available to an agent. Settings allowing you to quickly make security changes, add skills, or set the agent's orchestration mode.
 
-![Settings menu](https://learn.microsoft.com/en-us/training/modules/plan-first-chatbot-online-workshop/media/settings-menu.svg)
+![Settings menu](image-15.png)
 
 - Generative AI – Where you can configure the orchestration mode of your agent and advanced Generative AI features like deep reasoning, multi-agent orchestration, response models, moderation settings, knowledge grounding, file processing, and tenant graph grounding.
 
@@ -173,3 +172,7 @@ Note: The following screenshots display the analytics data from a sample agent. 
 - Languages – Where you can configure additional languages your agent can be used in and localized into.
 
 - Language understanding – Where you can configure custom language models developed and trained on Azure AI Language, in Azure Conversational Language Understanding (CLU). When configured, this effectively replaces the out-of-the-box natural language understanding model (NLU) for intent detection, and can also replace entity detection and extraction.
+
+## Next unit: Funamental knowledge - Natural Language Understanding with Microsoft Copilot Studio
+[Continue to Funamental knowledge - Natural Language Understanding with Microsoft Copilot Studio →](4-add-knowledge.md)
+

@@ -7,3 +7,6 @@ In traditional Conversational AI Development, developers have had to create, tra
 Additionally, when creating conversational experiences and more than one authored topic in Copilot Studio, makers need to ensure they limit their topic overlap to avoid disambiguation scenarios that can occur when an NLU has two or more high ranking intents, which have been matched from the user's question. This means the NLU has to confirm with the user who asked the question what the intent was between those topics that has been matched (Did You Mean X, or Y?). Microsoft Copilot Studio has features including Topic Overlap Detection to help Agent Makers along the journey of agent building and the ability to turn off topics from showing up in the Did You Mean experience.
 
 To learn more about Microsoft Copilot Studio NLU, including more detail on the underlying model and Topic Overlap capabilities, see [Enable advanced AI features in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-ai-features?tabs=web%2F%3Fazure-portal%3Dtrue).
+
+## Next unit: Checking your knowledge
+[Continue to Checking your knowledge →](5-checking-your-knowledge.md)
