@@ -24,11 +24,11 @@ Use this first exercise to become familiar with the Set Variable node and to rev
 
 In your topic, create a Set variable node anywhere in the canvas by selecting the add node button. Then, select Variable management > Set a variable value. This step is for exploring variable options, so it isn't critical that you add the variable in a specific location. It's deleted later.
 
-![Screenshot of the variable value node.](variable-value-node.png)
+![Screenshot of the variable value node.](images/image-5.png)
 
 A new Variable node is created. Select the Select a variable menu under the Set variable section within the node. In the flyout Select a variable panel that opens, select the Create new button.
 
-![Screenshot of the Create a new variable button.](create-new-variable-button.png)
+![Screenshot of the Create a new variable button.](images/image-6.png)
 
 Your new variable is made and is, by default, called Var1 (or a different number if you already created a variable with this name, such as Var2 or Var3).
 
@@ -36,23 +36,23 @@ Select the name of the variable to open the Variable properties panel on the rig
 
 > **Tip**: It's a best practice to ensure that you name your variables to something descriptive based on the data that's being stored. This approach helps you in the future and helps other makers.
 
-![Screenshot of variable properties.](variable-properties.png)
+![Screenshot of variable properties.](images/image-7.png)
 
 Select the X in the upper-right corner of the Variable properties panel to close it. Determine what data you can use to store in the variable. You can use other variables that you created in your authoring canvas, or you can use system variables or formulas. On your Set variable value node, select the arrow to the right of To value. A flyout panel appears that contains separate headings named Custom, System, Environment, and Formula (using Power Fx, which is covered later in this lab).
 
-![Screenshot of the Custom option for adding a value to a variable.](custom-option-variables.png)
+![Screenshot of the Custom option for adding a value to a variable.](images/image-8.png)
 
 Select the System heading to open the System Variable list. Now, you'll be able to view all variables that Microsoft Copilot Studio uses. These variables contain data that Microsoft Copilot Studio populates, and you can also use this data in your own variables. Review these options so that you know what's available by default.
 
-![Screenshot of System values to put into a variable value.](system-values-variables.png)
+![Screenshot of System values to put into a variable value.](images/image-9.png)
 
 Now that you reviewed the options that are available to you within the Set variable node, you can remove this node by selecting the extended menu options and selecting Delete, as shown in the following screenshot (it won't be used in the next lab exercises).
 
-![Screenshot of deleting the Set variable value node.](delete-variable-node.png)
+![Screenshot of deleting the Set variable value node.](images/image-10.png)
 
 From anywhere within the authoring canvas, you can also use the Variables window to review all variables within the topic, including global variables. Go to the upper right of the screen and select Variables to view this panel. It's beneficial to review all variables within a topic, especially large topics.
 
-![Screenshot of the Variables window.](variables-window.png)
+![Screenshot of the Variables window.](images/image-11.png)
 
 ## Section 2: Use variables in a message node
 
@@ -62,19 +62,19 @@ Open your Question node and select the variable name, which should still be Var1
 
 In the right panel that opens, rename the Variable name to **CustomerAction** and then select Global to change the scope from local (topic) to Global so that other topics can access it, as shown in the following screenshot.
 
-![Screenshot of the Variable name value being renamed.](variable-name-renamed.png)
+![Screenshot of the Variable name value being renamed.](images/image-12.png)
 
 Now, use the CustomerAction variable you obtained from the question node as dynamic data. Select the Message node at the end of your topic and place your cursor where you want the variable's text to be. Select the {X} variable icon, then choose the Global.CustomerAction variable from the Select a variable menu. This inserts the variable's value, making the message dynamic based on the user's selection.
 
-![Screenshot of inserting the variable into the message.](insert-variable-message.png)
+![Screenshot of inserting the variable into the message.](images/image-13.png)
 
 Change the wording of your message to match the following: **No problem. We can Global.CustomerAction that for you. Let us take a look at that now and get your information.** This lets users know the agent is aware of their choice from the previous question.
 
-![Screenshot of the completed message with a variable added to the message.](completed-message-variable.png)
+![Screenshot of the completed message with a variable added to the message.](images/image-14.png)
 
 Select the Test your agent option to test the behavior of the agent and the changes that you made by triggering the topic with a trigger phrase. The following screenshot shows this process in action.
 
-![Screenshot of testing the agent to show the dynamic data being returned in the message.](test-agent-dynamic-data.png)
+![Screenshot of testing the agent to show the dynamic data being returned in the message.](images/image-15.png)
 
 Notice how the CustomerAction value still has its first letter capitalized. To address this grammatical issue, you can choose to use a formula to convert the word to lowercase, instead of directly referencing the variable value.
 

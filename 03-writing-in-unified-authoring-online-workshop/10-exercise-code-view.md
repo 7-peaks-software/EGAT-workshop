@@ -16,11 +16,11 @@ Open the topic that you've been working with in this lab titled Check Order Stat
 
 In the upper right of the topic, next to the Save icon, select the extended (...) menu and then select Open code editor, as shown in the following screenshot.
 
-![Screenshot of the Open code editor option.](open-code-editor.png)
+![Screenshot of the Open code editor option.](images/image-42.png)
 
 The code editor should open, where you can view your dialog in the code view (YAML code).
 
-![Screenshot of the code editor.](code-editor-view.png)
+![Screenshot of the code editor.](images/image-43.png)
 
 Select Close code editor in the upper right after exploring this feature.
 
@@ -38,11 +38,11 @@ Open the Check Order Status topic that you've been working with during these lab
 
 Add a new Set a variable value node after your first Message node in the topic, then select the Set variable box and Create a new variable.
 
-![Screenshot of the new variable node and variable creation.](new-variable-node-creation.png)
+![Screenshot of the new variable node and variable creation.](images/image-44.png)
 
 Selecting the new variable opens the Variable properties window to the right. Change the name of the variable to EstDeliveryDateCurrent.
 
-![Screenshot of changing the name of the new variable.](change-variable-name.png)
+![Screenshot of changing the name of the new variable.](images/image-45.png)
 
 On the Set variable value node, under To Value, select the flyout menu and then select Formula to open the Enter formula panel, then select the expand icon.
 
@@ -61,7 +61,7 @@ Text(
 )
 ```
 
-![Screenshot of Power F X to set a variable value.](powerfx-set-variable.png)
+![Screenshot of Power F X to set a variable value.](images/image-46.png)
 
 This function takes today's date and time, which technically has a specific date and time format (for example, 5/31/2024 8:00 AM), adds 2 days to it, and then formats it in a long date format (for example, Friday, May 31, 2024). This approach is important if you want to display simple date formats that are user-friendly or if you want to store the date as a string in text format.
 

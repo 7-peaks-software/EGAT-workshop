@@ -6,7 +6,7 @@
 
 Microsoft Copilot Studio includes several extended capabilities for creating agents that help provide positive conversational experiences for customers. One central feature is the rich text authoring capabilities that are available for the Message and Question nodes.
 
-![Screenshot of the rich text options that you can return.](rich-text-options.png)
+![Screenshot of the rich text options that you can return.](images/image-30.png)
 
 The types of rich text authoring options that are available include:
 
@@ -29,7 +29,7 @@ In the existing Message node, select + Add, and then choose Image. Select the im
 
 Enter into the Image URL field the following link: https://learn.microsoft.com/training/achievements/build-effective-bots.svg
 
-![Screenshot of rich text image.](rich-text-image.png)
+![Screenshot of rich text image.](images/image-31.png)
 
 Finally, Save the Conversation Start topic.
 
@@ -49,17 +49,17 @@ Regular expression window filled out.
 
 Select the Save user response as variable menu in the new Question node, and in the variable properties panel to the right, change the variable name to OrderNumber.
 
-![Screenshot of OrderNumber variable name change.](ordernumber-variable-change.png)
+![Screenshot of OrderNumber variable name change.](images/image-32.png)
 
 From the Add dropdown within the Question node, select Quick reply. A Quick replies box appears within the Question node. Enter at least two options to your question, as shown in the following screenshot. Options begin to appear on the right side of the screen for those quick replies so that you can set up the associated message behavior, such as send a message text or open a URL, text, and title.
 
-![Screenshot of Quick replies in a question node.](quick-replies-question-node.png)
+![Screenshot of Quick replies in a question node.](images/image-33.png)
 
 > **Important**: When adding Quick replies to a question node that identifies entity data and the quick replies don't provide a value for the stored variable, the conversation redirects to the Escalate topic. The Escalate topic is beyond the scope of this course, but is used primarily to hand off the conversation to a live agent.
 
 To keep the topic flowing smoothly without redirecting to the Escalate topic, remove the Quick replies that were added in the previous step by selecting the X next to each quick reply.
 
-![Screenshot of removing the quick replies from the question node.](remove-quick-replies.png)
+![Screenshot of removing the quick replies from the question node.](images/image-34.png)
 
 Next steps: Take some time to repeat this process with the following different rich response types to become familiar with the different properties before you move on to the next task. For more information, see Send a message.
 

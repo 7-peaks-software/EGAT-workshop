@@ -16,33 +16,33 @@ In this task, you'll create a condition based on the three variable options that
 
 In your authoring canvas, under the Message node that you modified in the previous task, select the plus (+) icon to add a new node and then select Add a condition.
 
-![Screenshot of the Add a condition option.](add-condition-option.png)
+![Screenshot of the Add a condition option.](images/image-16.png)
 
 Two new nodes will appear, one is your Condition and the other is an exception for All other conditions.
 
 In your Condition node, select the Select a variable option and then select your Customer Action global variable.
 
-![Screenshot of the view after the condition is added to the topic.](condition-added-view.png)
+![Screenshot of the view after the condition is added to the topic.](images/image-17.png)
 
 Keep the condition operator as is equal to and then select the empty box beneath to display the three available options from the selected variable. Select the update option.
 
-![Screenshot of the condition for when the CustomerAction variable is update.](condition-customeraction-update.png)
+![Screenshot of the condition for when the CustomerAction variable is update.](images/image-18.png)
 
 A completed condition should now show: if the CustomerAction is equal to update.
 
-![Screenshot of the completed condition.](completed-condition.png)
+![Screenshot of the completed condition.](images/image-19.png)
 
 Create two more conditions in this branch for the two other options for the Customer Action variable (check and cancel). Select the plus (+) icon to add a node above the condition and then select Add a condition to add another conditional branch.
 
-![Screenshot of the Add a condition option to add another condition.](add-condition-another.png)
+![Screenshot of the Add a condition option to add another condition.](images/image-20.png)
 
 Repeat the previous steps by selecting your Global.CustomerAction variable and then select the check and cancel options in two other conditions so that you'll have a conditional branch with three options (including All Other Conditions), as shown in the following screenshot.
 
-![Screenshot of three conditions.](three-conditions.png)
+![Screenshot of three conditions.](images/image-21.png)
 
 Under each condition node, add a Message node that will display different text depending on the condition, as shown in the following example.
 
-![Screenshot of the final step with a Message node under each condition.](message-node-conditions.png)
+![Screenshot of the final step with a Message node under each condition.](images/image-22.png)
 
 Save your topic and then select the Test your agent option to explore the different trigger phrases and conditions that lead the user to view different message outcomes.
 

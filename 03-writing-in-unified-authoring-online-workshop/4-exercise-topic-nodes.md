@@ -10,7 +10,7 @@ Microsoft Copilot Studio allows authors to redirect to another topic, such as an
 
 In the Check Order Status topic that you've been working on during previous exercises, select the plus (+) icon to add a new node and then select Topic management. A list of available commands displays, as shown in the following screenshot.
 
-![Screenshot of the Topic management option.](topic-management-option.png)
+![Screenshot of the Topic management option.](images/image-23.png)
 
 In the Topic management menu, you can select from the following options:
 
@@ -32,19 +32,19 @@ Return to the Topics page where all your topics are displayed in a list view. Cr
 
 Instead of trigger phrases, change the trigger to an It's redirected to trigger by selecting the two opposite arrows in the trigger node, then selecting It's redirected to from the Change trigger menu. You may need to scroll down in the trigger menu to see the It's redirected to option.
 
-![Screenshot of the change trigger window.](change-trigger-window.png)
+![Screenshot of the change trigger window.](images/image-24.png)
 
 Then add a single Message node that acknowledges the cancellation and then save this topic. (For this task, this basic topic is for redirection; typically, the topic would be fully created. If you have time, you can add more nodes to this topic or return to it later.)
 
-![Screenshot of the creation of a simple topic called Order Cancellation.](order-cancellation-topic.png)
+![Screenshot of the creation of a simple topic called Order Cancellation.](images/image-25.png)
 
 Save this topic then return to the original topic that you created called Check Order Status that has the Condition branch within it. Within the branch that had the condition set as Cancel, create a new node beneath the message node and then select Topic management. Then, in the flyout menu, select Go to another topic and then find and select your Order Cancellation topic in the list, as shown in the following screenshot:
 
-![Screenshot of a topic redirect.](topic-redirect.png)
+![Screenshot of a topic redirect.](images/image-26.png)
 
 The three conditions from the previous task should display. The Cancel conditional branch should contain a redirect to another topic, which sends an acknowledgment message by redirecting to the new topic that you created. Test the behavior by saving your topic and then selecting the Test your agent option.
 
-![Screenshot of the view after selecting the topic redirect.](topic-redirect-view.png)
+![Screenshot of the view after selecting the topic redirect.](images/image-27.png)
 
 Congratulations, you're now familiar with the available actions under the Topic management menu. It would be useful for you to review the other options under Topic management before you continue; however, it's not essential for moving on to the next exercise.
 

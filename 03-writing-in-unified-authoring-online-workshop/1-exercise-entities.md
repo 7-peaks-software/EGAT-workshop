@@ -36,7 +36,7 @@ With your Contoso Customer Service agent open in Microsoft Copilot Studio, open 
 
 Select the Question node that you created to originally identify the user's full response. Select Identify, and in the slide-out menu that opens, select Create an entity.
 
-![Screenshot of the New entity button.](new-entity-button.png)
+![Screenshot of the New entity button.](images/image.png)
 
 Within the Create an entity dialog, select Closed List.
 
@@ -48,7 +48,7 @@ You can also choose to add synonyms by selecting synonyms for each option (optio
 
 Turn on the Smart matching toggle and then select Save.
 
-![Screenshot of the Order Action entity with the Smart matching toggle turned on.](order-action-entity.png)
+![Screenshot of the Order Action entity with the Smart matching toggle turned on.](images/image-1.png)
 
 This action creates a new entity called Order Action that you can use with the Question node in your topic to replace User's entire response with Order Action.
 
@@ -56,11 +56,11 @@ Select the Question node you previously had selected, the Identify section shoul
 
 If the Question node didn't autopopulate with the Order Action entity, select the Identify property and choose the Order Action entity.
 
-![Screenshot of the Identify option set as Order Action.](identify-order-action.png)
+![Screenshot of the Identify option set as Order Action.](images/image-2.png)
 
 Select the Select options for user option and then select all options to display to the user.
 
-![Screenshot of entity options displayed in the agent.](entity-options-displayed.png)
+![Screenshot of entity options displayed in the agent.](images/image-3.png)
 
 You have successfully set up a custom entity for your Question node.
 
@@ -68,7 +68,7 @@ To test the new entity we created, save your topic and then use the test pane to
 
 You'll observe the process triggers the Check Order Status topic, acknowledging the user's intent to inquire about their order's status. The phrase order status is recognized as a trigger for the topic and the Question node then triggers the Order Action entity you created, which displays an option for the user to determine what they would like to do with their order. This choice is then stored in the variable Var1 that can later be used for reference.
 
-![Screenshot of the slot filling experience.](slot-filling-experience.png)
+![Screenshot of the slot filling experience.](images/image-4.png)
 
 > **Note**: The Var1 variable is by default the first variable created, if you had previously created another variable the choice would default to Var2, Var3, etc.
 

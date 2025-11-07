@@ -14,17 +14,17 @@ In this first task, you manually create a new topic by following these steps:
 
    This is the topic description that your agent will use to decide when to use this specific topic. All newly created agents default to generative orchestration, which means the agent decides when to use specific topics based on the topic's description in its trigger node.
 
-   ![Screenshot of adding a topic description to the trigger node.](trigger-description.png)
+   ![Screenshot of adding a topic description to the trigger node.](images/image-3.png)
 
 4. Select the **Details** button within the top right corner to open the Topic Details pane. Rename your topic to **Check Order Status**, and then select **Save**.
 
-   ![Screenshot of renaming and saving the topic.](rename-topic.png)
+   ![Screenshot of renaming and saving the topic.](images/image-4.png)
 
 ## Section 2: Review the topic UI
 
 Now that you created your first topic, though it has no content beyond the trigger description, you can explore the authoring user interface (UI) to become more familiar with it.
 
-![Screenshot of the Microsoft Copilot Studio navigation.](copilot-studio-navigation.png)
+![Screenshot of the Microsoft Copilot Studio navigation.](images/image-5.png)
 
 - **Topic title** - The name of the topic that you're currently creating, which is visible on the Topics page.
 
@@ -46,21 +46,21 @@ In the topic that you have open from the previous task, select the **+** symbol 
 
 Enter **What would you like to do with your order?** in the question field, then set the Identify value to **User's entire response**. This node sends the user a question after the topic is triggered.
 
-![Screenshot of the question node's configuration.](question-node-config.png)
+![Screenshot of the question node's configuration.](images/image-6.png)
 
 ## Section 4: Message nodes
 
 You can use the Message node to display a message to the user. This message can be simple based on the topic of the conversation. In direct contrast to the Question node, the Message node doesn't expect or store an answer from the user. The Message node has rich text options that you can display in text. You can also use variables within message nodes in the body of text displayed to the user, which is dynamic based on the data stored within them. This capability allows messages to be more personal, such as _Hello {name}, I can get those order details for you, one moment._ Variables can also store data to perform automation or calculations on them. Later exercises cover variables more in depth.
 
-![Screenshot of the Message node.](message-node.png)
+![Screenshot of the Message node.](images/image-7.png)
 
 To add another node, select the **+** button below the Question node. Then, select **Send a message**. Enter a message that acknowledges the customer's question, such as **Thank you for your question!**.
 
-![Screenshot of Trigger Phrases with a Message node added that reads Thank you for your question.](message-node-added.png)
+![Screenshot of Trigger Phrases with a Message node added that reads Thank you for your question.](images/image-8.png)
 
 End the conversation for the customer in this demo scenario. Select the **Add node** button below the message node within the authoring canvas. Hover over the **Topic Management** option, and then select **End conversation** to end the conversation.
 
-![Screenshot of the End conversation node added.](end-conversation-node.png)
+![Screenshot of the End conversation node added.](images/image-9.png)
 
 Then, within the top-right corner of the screen, select the **Save** button.
 
@@ -74,7 +74,7 @@ Creating topics in Microsoft Copilot Studio is more effortless than before. Now,
 
 2. Select the **+ Add a topic** button and choose **Add from description with Copilot**.
 
-   ![Screenshot of creating a topic with Copilot.](create-topic-copilot.png)
+   ![Screenshot of creating a topic with Copilot.](images/image-10.png)
 
 3. A new window appears, asking you to Name your topic and enter a description in the Create a topic to... space.
 
@@ -84,7 +84,7 @@ Creating topics in Microsoft Copilot Studio is more effortless than before. Now,
 
 6. Select **Create**.
 
-   ![Screenshot of setting up the Copilot feature to build a topic.](copilot-setup.png)
+   ![Screenshot of setting up the Copilot feature to build a topic.](images/image-11.png)
 
 Copilot creates your topic, including the trigger phrases, question nodes, entity selection, variable naming, and message node confirmation.
 
@@ -92,17 +92,17 @@ Copilot creates your topic, including the trigger phrases, question nodes, entit
 
 8. Within the Edit with Copilot panel, in the field **What do you want to do?**, enter **Add a question to ask the user to choose their preferred contact method, choosing from email, phone, or SMS**. Then, select **Update**.
 
-   ![Screenshot of adding message variations with Copilot.](copilot-message-variations.png)
+   ![Screenshot of adding message variations with Copilot.](images/image-12.png)
 
 Copilot automatically adds a question node, which both asks the customer for their contact method, and stores their choice in a variable.
 
-![Screenshot of the results of message variations with Copilot.](copilot-results.png)
+![Screenshot of the results of message variations with Copilot.](images/image-13.png)
 
 The Copilot feature in Microsoft Copilot Studio drastically reduces authoring time, allowing you to create and edit topics by using natural language. Additionally, the Edit with Copilot panel shows what updates have been created, and it provides suggestions for what you can update in your topic.
 
 To complete the exercise, exit the topic without saving. If you accidentally saved the topic, turn off the topic by switching the Status toggle to Off, as shown in the following screenshot.
 
-![Screenshot of turning off the topic that you created with Copilot.](turn-off-topic.png)
+![Screenshot of turning off the topic that you created with Copilot.](images/image-14.png)
 
 ## Section 6: Test your agent
 
@@ -110,11 +110,11 @@ Now, you will test the Check Order Status topic that you created in the first ta
 
 1. Select the **Test** button in the top right corner of the screen to open the testing panel.
 
-   ![Screenshot of selecting Test your agent.](test-agent-button.png)
+   ![Screenshot of selecting Test your agent.](images/image-15.png)
 
 The Conversation Start message appears, and your agent starts a conversation. In response, enter **Order status** to trigger the Check Order Status topic you previously created. Notice the question node you added gets sent along with the activity map displaying the Check Order Status topic is currently in progress.
 
-![Screenshot of the result of you testing the agent.](test-agent-result.png)
+![Screenshot of the result of you testing the agent.](images/image-16.png)
 
 > **Note**: If you previously had a conversation open in the test pane, you will need to select the circle icon at the top of the chat window to refresh the chat and start a new conversation.
 

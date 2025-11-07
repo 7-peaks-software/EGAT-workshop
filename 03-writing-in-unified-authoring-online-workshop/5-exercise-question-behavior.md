@@ -8,11 +8,11 @@ Previously, this lab covered the basics of the Question node and built on this c
 
 Within the Check Order Status topic, select the Question node. Then, select the ellipsis within the top right corner of the Question node to extend the menu, as shown in the following screenshot, then choose Properties from the menu.
 
-![Screenshot of the Properties menu.](properties-menu.png)
+![Screenshot of the Properties menu.](images/image-28.png)
 
 Select Question behavior from the Question properties panel that appears.
 
-![Screenshot of the Question behavior property.](question-behavior-property.png)
+![Screenshot of the Question behavior property.](images/image-29.png)
 
 The Question node has several configurable options so that you're able to better identify what the user's response is to the question that you're asking. This component is important when you're developing conversational applications. Because regardless of the type of AI that's behind the scenes managing the natural language responses, a user might provide unexpected or unidentifiable answers. The ability to handle the agent's behavior in those circumstances helps you provide an improved customer experience. This scenario also happens in real life, when you ask a question to another person, and they don't understand the question. For the best experience and conversation, it's important to rephrase or act differently than to repeat the same question that wasn't originally understood.
 

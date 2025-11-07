@@ -18,15 +18,15 @@ Within your topic, create a new Message node and add a line of text like Hello w
 
 On the message, select the Text dropdown menu and then select Speech, as shown in the following screenshot.
 
-![Screenshot of switching from text to speech responses.](switch-text-speech.png)
+![Screenshot of switching from text to speech responses.](images/image-39.png)
 
 A message will appear, as shown in the following screenshot. Select Add to add a new Message variation, as you've done previously. Add what you would want the copilot to say, and then add multiple message variations for speech in the same way that you'd add them for text.
 
-![Screenshot of a message variation.](message-variation-speech.png)
+![Screenshot of a message variation.](images/image-40.png)
 
 When using SSML, you can set up how the text will be converted to synthesized speech to ensure that it sounds like natural speech. You can use SSML tags like Audio, Break, Emphasis, and Prosody, to change the behavior of how your sentence is spoken. In this lab, you won't create a speech-enabled copilot; you're only reviewing the available options, as follows. Delete this message before continuing forward.
 
-![Screenshot of tags that you can add to a message response.](tags-message-response.png)
+![Screenshot of tags that you can add to a message response.](images/image-41.png)
 
 - Audio - Add prerecorded audio.
 - Break - Insert pauses or breaks between words.

@@ -10,7 +10,7 @@ Select a node within your open topic so that the blue outline appears.
 
 On the productivity bar near the upper left of the authoring canvas, select the copy icon.
 
-![Screenshot of the copy icon within a topic.](copy-icon-topic.png)
+![Screenshot of the copy icon within a topic.](images/image-38.png)
 
 Now that you've copied a node, you can paste the node within the current topic, or add it to another topic.
 
