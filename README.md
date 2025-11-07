@@ -73,3 +73,5 @@ using Uploaded documents (document provided in Lab resources)
 - [Microsoft Copilot Studio Documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
 - [Power Platform Documentation](https://learn.microsoft.com/en-us/power-platform/)
 - [Community Forums](https://powerusers.microsoft.com/)
+
+
