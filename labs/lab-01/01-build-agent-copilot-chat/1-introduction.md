@@ -1,7 +1,5 @@
 # Introduction
 
-*5 minutes*
-
 Microsoft 365 Copilot Chat makes it easy to build intelligent, task-specific agents that enhance productivity across your organization. In this module, you'll explore the fundamentals of agent creation using Microsoft 365 Copilot Chat, and gradually progress toward advanced customization in Copilot Studio.
 
 This module has three exercises:

@@ -1,7 +1,5 @@
 # Build custom agents in Agent Builder
 
-*10 minutes*
-
 Your manager has notified you about the several emails received from people having issues returning coffee machines ordered from the Contoso machine ordering app and getting clear responses from customer service. Having recently learned about making agents, you decide to create a reliable agent to help resolve this issue and help answer internal questions from the customer service team. The goal is to standardize and give predictable responses.
 
 Agents are a simple and powerful way to provide support to users. In this exercise, you'll build a customer support agent for the fictitious company Contoso Coffee. You'll learn how to configure the agent's basic settings, define clear instructions, create helpful suggested prompts, and adjust sharing options to control who can access your agent.

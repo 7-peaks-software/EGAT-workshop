@@ -1,7 +1,5 @@
 # Check your knowledge
 
-**Duration:** 5 minutes
-
 ## Answer the following questions to see what you've learned.
 
 **1. What is the purpose of creating a solution in Copilot Studio before building your agent?**

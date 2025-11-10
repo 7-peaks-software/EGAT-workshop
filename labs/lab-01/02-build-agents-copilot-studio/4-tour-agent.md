@@ -1,7 +1,5 @@
 # Tour your agent in Copilot Studio
 
-**Duration:** 10 minutes
-
 Before diving into building and enhancing your agent's functionality, it's helpful to understand the layout and capabilities of the Copilot Studio interface. This unit walks you through opening an agent and navigating the key areas of the Overview page and navigation menu so you can confidently explore and manage your agent. Whether you're reviewing conversation topics, adding actions, or monitoring performance, the intuitive UI puts everything within reach.
 
 1. Navigate to the **Agents** tab of the left navigation menu in Copilot Studio. For non-government customers, you would go to [https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/).

@@ -1,7 +1,5 @@
 # Check your knowledge
 
-*6 minutes*
-
 ## Answer the following questions to see what you've learned.
 
 1. **What is the purpose of using a template in Copilot Chat Agent Builder?**

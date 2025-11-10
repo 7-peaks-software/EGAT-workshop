@@ -1,7 +1,5 @@
 # Summary
 
-*2 minutes*
-
 In this module, you explored how Microsoft 365 Copilot Chat enables the rapid creation and customization of intelligent agents. You began by learning how to navigate Copilot Chat, understand its agent-building capabilities, and identify licensing requirements.
 
 You then used the Agent Builder to create an agent from a prebuilt template, experimenting with configuration options like agent instructions and starter prompts. Finally, you built a custom support agent from scratch, setting up clear behavior rules, meaningful prompts, and an actionable knowledge source.

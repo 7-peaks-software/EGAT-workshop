@@ -1,7 +1,5 @@
 # Copilot chat
 
-*10 minutes*
-
 The Agents in a Day Learning Path focuses on understanding and building agents. These agents can be built and customized directly in Microsoft 365 Copilot Chat. Recent advancements in AI technologies have made key aspects of Copilot Studio's interface and functionality available in Microsoft 365 Copilot Chat.
 
 ## What is Copilot Chat?

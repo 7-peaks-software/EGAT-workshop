@@ -1,7 +1,5 @@
 # Set up environment
 
-**Duration:** 10 minutes
-
 Before building an agent in Copilot Studio, it's important to use a predefined ecosystem where the components of your agent and associated data it pulls from can live together. For this example, we'll be using a prebuilt solution that expands on our Contoso Coffee scenario.
 
 The solution you'll be using comes with a canvas app, model-driven app, and tables. The solution is located in the student files, which can be downloaded from the following link [Download Student Files](https://aka.ms/AgIADStudentFiles).

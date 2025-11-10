@@ -1,7 +1,5 @@
 # Summary
 
-**Duration:** 5 minutes
-
 In this module, you took your first steps into Microsoft Copilot Studio, a more advanced, and customizable platform for building AI agents. You began by importing a solution to organize and manage your agent components, ensuring a structured foundation for future development.
 
 Using the conversational agent builder, you defined the tone, personality, and behavior of your agent with natural language input. You also toured the Copilot Studio interface, exploring essential areas in the Overview page that give you full control over how your agent behaves and responds.

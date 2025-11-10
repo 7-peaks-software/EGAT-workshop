@@ -1,7 +1,5 @@
 # Use agent templates in Agent Builder
 
-*10 minutes*
-
 You're looking for help brainstorming ideas for an upcoming presentation. The presentation is soon and you're having trouble coming up with ideas, so you decide to build an agent made specifically for developing well-rounded topic ideas in a short amount of time.
 
 Templates in Copilot Studio agent builder provide a fast and structured way to create agents tailored to specific scenarios. In this unit, you'll explore how to use the Agent Builder to create a new agent using one of the built-in templates. Whether you're following along with the Idea Coach or selecting a different template, you'll gain hands-on experience customizing configuration options like instructions, suggested prompts, and knowledge access to suit your needs.

@@ -1,7 +1,5 @@
 # Introduction
 
-**Duration:** 5 minutes
-
 Now that you've explored how to build and test agents in Microsoft 365 Copilot Chat, it's time to step into Copilot Studio, a more robust and flexible environment for designing intelligent agents. In this module, you'll go beyond basic configurations and learn how to build a fully featured agent using guided, conversational, and manual tools.
 
 Microsoft Copilot Studio offers deeper customization through structured solutions, expanded knowledge integration, and control over agent direction. Whether you're building from a blank slate or refining an existing agent, this module helps you unlock the full potential of agent development.

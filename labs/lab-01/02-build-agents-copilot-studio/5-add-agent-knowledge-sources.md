@@ -1,7 +1,5 @@
 # Add agent knowledge sources
 
-**Duration:** 10 minutes
-
 Many of the coffee machines returned to Contoso are damaged or missing the box they were originally sold in. You're interested in training the qualifications for valid returns into the agent so that it's clear on what condition the returned product should be in.
 
 As you enhance your agent's capabilities in Copilot Studio, access to relevant data becomes a key differentiator in delivering useful, grounded responses. In this unit, you'll learn how to add Dataverse tables from the solution you imported earlier and configure them as knowledge sources for your agent. You'll also explore how to bring in external knowledge in the form of the return policy PDF you used in the Copilot Chat agent, enabling your agent to respond to a wider range of questions with real-world context.

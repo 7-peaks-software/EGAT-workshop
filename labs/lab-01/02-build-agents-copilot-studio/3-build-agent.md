@@ -1,7 +1,5 @@
 # Build an agent in Copilot Studio
 
-**Duration:** 10 minutes
-
 In this section, you'll use the conversational creation flow to define a Contoso Coffee agent using natural language to configure its tone and instructions. This conversation creation uses AI to make the creation simple and reduce the time to deliver your agent to your customers.
 
 To continue your journey of Application Lifecycle Management, you'll create the agent directly from your solution, automatically localizing your agent's back-end to your solution. By starting with this practice, you'll automatically store all components you add to the agent, and its related processes, within your solution for peace of mind when you might eventually move this agent to a production environment or share with a colleague or client.

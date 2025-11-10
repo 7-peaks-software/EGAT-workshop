@@ -7,12 +7,12 @@ This lab contains hands-on workshops for learning Microsoft Copilot Studio and b
 ### 01 - Agent in Copilot Chat
 Learn how to build and test agents in Microsoft 365 Copilot Chat.
 
-[Start Module 01](./01-agent-copilot-chat/1-introduction.md)
+[Start Module 01](./01-build-agent-copilot-chat/1-introduction.md)
 
 ### 02 - Build a Conversational Agent in Copilot Studio
 Learn how to create a conversational agent and ground its answers with knowledge sources in Microsoft Copilot Studio.
 
-[Start Module 02](./02-build-conversational-agent/1-introduction.md)
+[Start Module 02](./02-build-agents-copilot-studio/1-introduction.md)
 
 ## Prerequisites
 
