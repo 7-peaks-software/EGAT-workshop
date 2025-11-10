@@ -1,4 +1,4 @@
-@Wave to prepare the content of first lab
+@Balloon to copy the content
 
 Copy this two:
 01 https://learn.microsoft.com/en-us/training/modules/agents-copilot-chat/
