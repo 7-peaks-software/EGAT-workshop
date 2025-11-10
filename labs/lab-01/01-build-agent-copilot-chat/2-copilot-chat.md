@@ -25,6 +25,8 @@ To get started, go to [Copilot Chat](https://m365.cloud.microsoft/chat). The Mic
 
 - **Apps** - List of associated Microsoft 365 apps like Outlook, Word, Excel, and Teams.
 
+![Copilot Chat](image-2.png)
+
 ## Create an agent in Copilot Chat
 
 Agents use AI to make Copilot Chat even more personalized and intelligent for your daily work. Agents automate repetitive tasks and processes - think of them like apps for Copilot. Copilot Chat comes with a set of agent templates to get started with, or you can create custom agents for your own needs.
