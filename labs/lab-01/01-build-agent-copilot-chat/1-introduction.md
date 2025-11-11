@@ -15,15 +15,7 @@ Imagine you work for Contoso Coffee, an organization that distributes top of the
 
 To get started, ensure that your tenant has access via either a Pay-As-You-Go plan or a Microsoft 365 Copilot subscription.
 
-### Verify your license
-
-To verify what licenses your tenant has access to, navigate to the [Microsoft 365 admin center](https://admin.microsoft365.com). In the Microsoft 365 admin center, navigate to the Active users menu under Users in the left navigation menu, then select the user you'll be logging in with. With the selected user opened in the right fly-out menu, navigate to the Licenses and apps tab. Under Licenses and apps you'll be able to determine what licenses are applied to your account. The Billing tab in the left navigation menu displays tenant-wide capacity and product license information.
-
 Users with a Microsoft 365 Copilot license have the agent builder feature of Copilot Chat enabled by default. Users that don't have a Microsoft 365 Copilot license needs to [set up a pay-as-you-go billing plan](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-set-up?tabs=classic) through either the Microsoft 365 admin center or the Power Platform admin center.
-
-### If you're attending an instructor-led workshop
-
-If you're attending an Instructor-led Agent in a Day event, you may be provided a tenant to use from your instructor that will be pre-configured for you to use. This tenant will have a Microsoft 365 Copilot license and a Microsoft Copilot Studio license, which will provide access to all the Microsoft 365 Copilot Chat features used in this module.
 
 ### Accessing Microsoft 365 Copilot Chat
 
