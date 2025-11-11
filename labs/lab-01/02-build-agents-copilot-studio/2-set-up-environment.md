@@ -86,7 +86,9 @@ It's important to note that solutions are not required when creating agents. An 
 3. Select **Browse** in the Import a solution pane that opens then navigate and choose the `AgentsinaDay_1_0_0_13_DoNotUnzip.zip` file that's located in the Module 2 folder of your student files.
 
 > **Important**
-> You can download these student files from the following link [Download Student Files](https://aka.ms/AgIADStudentFiles). The solution file is located in the attached AgIAD Student Files.zip file.
+> You can find the student files in the attached AgIAD Student Files.zip file in the [./resources](./resources) folder.
+>
+> Alternatively, You can download these student files from the following link [Download Student Files](https://aka.ms/AgIADStudentFiles). The solution file is located in the attached AgIAD Student Files.zip file.
 
 4. With the `AgentsinaDay_1_0_0_13_DoNotUnzip.zip` added next to **Browse**, select the **Next** option at the bottom of the Import a solution pane.
 
