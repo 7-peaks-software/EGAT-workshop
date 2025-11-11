@@ -2,10 +2,6 @@
 
 ## Introduction
 
-**Completed**  
-**100 XP**  
-**3 minutes**
-
 Agents in Microsoft Copilot Studio don't have to wait for a message to act, they can initiate conversations automatically in response to changes in your business data. This module explores autonomous triggers, which allow your agent to monitor systems and respond in real time when specific conditions are met.
 
 Autonomous triggers transform your agent into a proactive assistant. By connecting to data events, like an email received inquiring about an order's status, you can ensure your agent is always listening for important updates and delivering timely, relevant responses.

@@ -1,9 +1,5 @@
 # 12. Summary
 
-**Completed**  
-**100 XP**  
-**1 minute**
-
 In this module, you learned about the latest updates to the message and question nodes. Additionally, you've learned how to:
 
 - Use the new rich text options that are available including images

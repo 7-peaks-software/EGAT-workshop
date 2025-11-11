@@ -1,9 +1,5 @@
 # 2. Make your agent autonomous
 
-**Completed**  
-**100 XP**  
-**15 minutes**
-
 For our Contoso Support Agent scenario, we'd like the agent to be able to read and respond to emails from users that ask for the status of a machine they ordered via the machine ordering app.
 
 First, we'll give our agent access to the Outlook Model Context Protocol (MCP) server. We'll then add a trigger to our agent that collects the order information from the received email by monitoring the inbox of our Office 365 Outlook connection and filtering by messages that have an order status subject. This trigger will also instruct the agent to pull the order's record data from our provided Machine Orders knowledge source to tailor the message for the user's machine order.

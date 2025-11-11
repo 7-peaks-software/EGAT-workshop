@@ -1,9 +1,5 @@
 # Summary
 
-**Completed**  
-**100 XP**  
-**5 minutes**
-
 In this module, you learned how to transform your agent into a proactive assistant by using autonomous triggers, event-driven flows that allow your agent to respond automatically to changes in your business data.
 
 You began by understanding how autonomous triggers work and why they matter. These event-based mechanisms enable your agent to react to real-time updates, like an email received in a monitored inbox, without waiting for user input.

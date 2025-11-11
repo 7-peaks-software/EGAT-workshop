@@ -2,10 +2,6 @@
 
 ## Introduction
 
-**Completed**  
-**100 XP**  
-**5 minutes**
-
 Now that your agent has been built and grounded with knowledge, it's time to make it work. In this module, you'll learn how to extend your agent's capabilities by integrating real-world tools, building custom prompts, and configuring agent instructions to determine how your agent generates responses.
 
 Tools in Copilot Studio enable agents to perform useful tasks like generating custom answers with prompts, executing automations with agent flows, and sending emails. You'll explore how to add these tools, indicate how the agent should use them in the agent instructions, and use generative orchestration to dynamically route user queries to the right tools.

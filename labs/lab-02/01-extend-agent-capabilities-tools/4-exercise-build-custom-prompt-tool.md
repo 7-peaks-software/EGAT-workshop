@@ -1,9 +1,5 @@
 # 2. Build a custom prompt tool
 
-**Completed**  
-**100 XP**  
-**12 minutes**
-
 In this exercise, you'll add your first tool. We'll be using the prompt tool to attend to users that are frustrated and require a more empathetic response than typically indicated by the agent's instructions. Prompt tools are customized generative answers triggered under specific circumstances. In this case, the custom message will provide more empathetic depth than the agent is already defined to portray and point them toward resources like the Contoso website.
 
 ## Add the prompt tool

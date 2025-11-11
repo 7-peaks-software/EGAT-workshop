@@ -1,8 +1,5 @@
 # 11. Check your knowledge
 
-**200 XP**  
-**6 minutes**
-
 Answer the following questions to see what you've learned.
 
 1. What is a type of Variable in Microsoft Copilot Studio?

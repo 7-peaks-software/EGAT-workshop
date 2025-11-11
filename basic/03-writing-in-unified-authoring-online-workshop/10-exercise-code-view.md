@@ -1,9 +1,5 @@
 # 10. Code view and Power Fx
 
-**Completed**  
-**100 XP**  
-**5 minutes**
-
 Now that you're more familiar with the authoring fundamentals in Microsoft Copilot Studio, you can explore some extended capabilities that you can use to set up and further customize the agent experience. The following sections cover two capabilities: code view for pro developers and Power Fx (for Microsoft Power Platform makers and professional developers).
 
 Microsoft Copilot Studio now has the capability to view the code behind a topic. This capability is incredibly useful for pro-code developers, where they can view and edit the syntax directly within the web browser, and when saved, the syntax is immediately visible in the graphical authoring canvas. As a result, the process of creating topics is faster and easier, empowering developers to extend beyond the authoring canvas if necessary.

@@ -1,9 +1,5 @@
 # Create topics
 
-**Completed**  
-**100 XP**  
-**8 minutes**
-
 Now that the initial structure of the agent has been created, your next step is to begin writing topics. Topics define how the customers interact with the agent, and they typically represent common issues, questions, or tasks that customers might need assistance with. For example, you might create a topic to provide customers with item return instructions.
 
 Each topic consists of two primary elements:

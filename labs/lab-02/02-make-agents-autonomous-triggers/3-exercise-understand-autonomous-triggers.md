@@ -1,9 +1,5 @@
 # 1. Understand autonomous triggers
 
-**Completed**  
-**100 XP**  
-**5 minutes**
-
 Triggers are a core feature that enable agents in Microsoft Copilot Studio to act autonomously, without requiring direct user interaction through a conversational interface. Unlike topics, tools, or knowledge, which respond to user input, triggers allow agents to respond to external events, such as updates in a Dataverse table, incoming emails, or submitted approvals.
 
 > **Important**: Triggers are only available for agents that have generative orchestration enabled.

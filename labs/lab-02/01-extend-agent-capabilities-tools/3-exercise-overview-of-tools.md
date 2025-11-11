@@ -1,9 +1,5 @@
 # 1. Overview of tools
 
-**Completed**  
-**100 XP**  
-**8 minutes**
-
 A tool is a reusable piece of code that can perform a specific task or provide specific functionality for an agent. For example, a tool can help an agent answer a natural language query, execute a workflow, connect to an external system, or provide topic-specific guidance. An agent is a conversational or UX-based assistant that helps users accomplish their tasks and goals in a specific domain or application.
 
 ## Understand tools

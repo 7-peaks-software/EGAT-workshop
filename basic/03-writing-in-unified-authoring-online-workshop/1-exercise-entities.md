@@ -1,9 +1,5 @@
 # 1. Entities in Microsoft Copilot Studio
 
-**Completed**  
-**100 XP**  
-**7 minutes**
-
 Microsoft Copilot Studio identifies and uses entities to interpret what the user is saying. For example, if the user says, "I tried to use my gift card, but it doesn't work," the agent knows to route the user to the topic that's related to gift cards not working, even if that exact phrase isn't listed as a trigger phrase.
 
 Natural language understanding (NLU) helps the agent identify entities in a user's input. An entity represents a real-world subject, such as a phone number, zip code, city, or person's name. Your agent can recognize the relevant information from user input and then save it for later use.

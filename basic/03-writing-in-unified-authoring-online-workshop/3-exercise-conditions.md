@@ -1,9 +1,5 @@
 # 3. Use variables in conditions
 
-**Completed**  
-**100 XP**  
-**4 minutes**
-
 Your topic has currently been updated from the second lab with entities and slot filling capabilities, and it's using dynamic data to store variables and reuse those variables in messages to provide a dynamic authoring experience. Now, you'll use the same variable in a condition statement in Microsoft Copilot Studio.
 
 With condition statements in Microsoft Copilot Studio, an agent author can determine behavior under certain conditions that can be true, false, or something else (for example, if it's blank). Condition statements allow and promote flexibility in the authoring canvas, allowing you to provide great customer or user experiences based on their needs while limiting the need to create several similar topics. After you begin to use conditions, you'll create branches, which create separate flows that the person talking to the agent can be directed to. These branches can have their own conditions, depending on what behavior you want to create.

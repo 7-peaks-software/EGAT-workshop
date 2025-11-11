@@ -1,9 +1,5 @@
 # 6. Rich text options for message and question nodes
 
-**Completed**  
-**100 XP**  
-**4 minutes**
-
 Microsoft Copilot Studio includes several extended capabilities for creating agents that help provide positive conversational experiences for customers. One central feature is the rich text authoring capabilities that are available for the Message and Question nodes.
 
 ![Screenshot of the rich text options that you can return.](images/image-30.png)

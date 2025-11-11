@@ -1,9 +1,5 @@
 # 2. Variables
 
-**Completed**  
-**100 XP**  
-**10 minutes**
-
 You're beginning to enhance the topic that you created in the second lab. In the previous section, you used entities and slot filling to automatically detect the data from a user's sentence and store specific data in a variable. Now, you'll learn how to use the data that you obtained from the question in a variable and then display it within a message by using Microsoft Copilot Studio unified authoring.
 
 ## Section 1: Learn about variable types

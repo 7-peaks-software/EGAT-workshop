@@ -1,9 +1,5 @@
 # 7. Message variations
 
-**Completed**  
-**100 XP**  
-**3 minutes**
-
 You can use the Message node to display a message to the user. Fundamentals of the Message node were covered in a previous lab and previous task in this lab. Message and Question nodes also support message variations. A Message variation allows you to add up to 15 messages in a single node so that, when the agent is triggered, it randomly selects a message variation. Message variations allow an agent author to add different styles of sentence in the same Message node, where at runtime, Microsoft Copilot Studio will randomly select one message variation when the topic is triggered. This feature provides authors with the ability to create natural sounding interaction and provides customers with a more natural sounding experience when they're interacting with agents over time.
 
 > **Tip**: Because message variations are selected randomly when a topic is triggered, you can add multiple versions of the same message if you want to provide an experience that leans on a certain style while providing smaller degrees of probability that still offers differentiation on some occasions.

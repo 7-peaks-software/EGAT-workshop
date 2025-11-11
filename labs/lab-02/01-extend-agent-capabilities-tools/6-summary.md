@@ -1,9 +1,5 @@
 # 4. Summary
 
-**Completed**  
-**100 XP**  
-**2 minutes**
-
 In this module, you explored how to transform your agent from a static responder into a dynamic, task-oriented assistant by combining agent flows, custom prompts, and orchestration.
 
 You began by understanding the various tools and their uses in Copilot Studio, then built an agent flow for updating a record in the Machine Orders table.

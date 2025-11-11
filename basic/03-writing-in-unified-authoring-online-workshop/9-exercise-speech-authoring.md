@@ -1,9 +1,5 @@
 # 9. Speech authoring
 
-**Completed**  
-**100 XP**  
-**3 minutes**
-
 Within Microsoft Copilot Studio, Copilot makers can use Speech Synthesis Markup Language (SSML) tags in Message and Question nodes so that they can extend the behavior when they're using Microsoft Copilot Studio for speech-enabled Copilots. You can use Microsoft Copilot Studio for text authoring and speech authoring. By default, on voice-enabled channels, the message text that's entered in the message node will be used for text display and voice. You can override this behavior by providing different behavior for text and speech. For example, you'd override the behavior when you want to provide more emphasis on certain areas of a sentence or on an image message because you want to provide an alternative description that can be read aloud.
 
 For more information, see Speech Synthesis Markup Language.

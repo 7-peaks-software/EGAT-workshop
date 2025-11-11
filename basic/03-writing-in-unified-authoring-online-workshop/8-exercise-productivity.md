@@ -1,9 +1,5 @@
 # 8. Productivity features
 
-**Completed**  
-**100 XP**  
-**2 minutes**
-
 Currently, you can use familiar operations, such as copy and paste, within the Microsoft Copilot Studio authoring canvas. This capability can help accelerate the authoring experiences and make it easier for you to build logic for more complex topics. In this task, you'll practice using this capability in the topic that you have opened from the previous task.
 
 Select a node within your open topic so that the blue outline appears.

@@ -1,9 +1,5 @@
 # 5. Question node behavior
 
-**Completed**  
-**100 XP**  
-**6 minutes**
-
 Previously, this lab covered the basics of the Question node and built on this concept by using entities and slot filling. In addition to storing a user's response, the Question node has more behavior options that you can set up. One option is the ability to skip the asking of a question if the variable that it's linked to already contains a value. You observed this process in action in a previous exercise where the question was skipped when the agent was asked to check an order. The question was skipped because, by using entities and slot filling, you allowed Microsoft Copilot Studio to retrieve data from the sentence that the user asked and then store the data within the variable. After the Question node was reached by Microsoft Copilot Studio, it already contained data, so the question didn't need to be asked again. This approach is more efficient because, when the user or customer is talking to an agent, they won't need to answer the same question multiple times.
 
 Within the Check Order Status topic, select the Question node. Then, select the ellipsis within the top right corner of the Question node to extend the menu, as shown in the following screenshot, then choose Properties from the menu.

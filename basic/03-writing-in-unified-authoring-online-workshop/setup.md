@@ -1,9 +1,5 @@
 # Setup
 
-**Completed**  
-**100 XP**  
-**2 minutes**
-
 In its latest release, Microsoft Copilot Studio has evolved the agent authoring experience to help make it easier and faster for you to give authors more tools when they're creating conversational experiences. As a result, more Microsoft Copilot Studio customers and virtual agents can have engaging conversations that meet the business goals.
 
 In this lab, you'll build on a basic topic from the second lab in this learning path. You'll layer more experiences, where you can create directly in the app, starting with enhanced question behavior, working with entities, and using rich text options. This approach allows you to begin from a basic conversational experience from the second lab and then learn how you can use the latest features to further enhance your agent.

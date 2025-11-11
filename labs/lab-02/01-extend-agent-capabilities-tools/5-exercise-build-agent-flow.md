@@ -1,9 +1,5 @@
 # 3. Build an agent flow
 
-**Completed**  
-**100 XP**  
-**15 minutes**
-
 Agent flows are tools in Microsoft Copilot Studio that allow you to extend your agent's capabilities through custom Power Automate workflows. In this unit, you'll learn how to create a flow that responds to users canceling a machine order by updating a record in a Dataverse table. You'll configure inputs, filter for specific records, and use dynamic expressions to modify data based on user prompts. By the end of this unit, you'll understand how agent flows serve as powerful tools that bridge conversational experiences with backend logic and data manipulation.
 
 ## Build an agent flow
