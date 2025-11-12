@@ -71,11 +71,6 @@ This repository contains comprehensive workshop materials for learning how to cr
 5. Review summaries for key takeaways
 
 
-## Hands on Labs
-- Lab 1 - 
-- Lab 2 - 
-- Lab 3 - 
-
 ## Additional Resources
 - [Microsoft Copilot Studio Documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
 - [Power Platform Documentation](https://learn.microsoft.com/en-us/power-platform/)
